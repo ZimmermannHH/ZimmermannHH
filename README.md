@@ -1,7 +1,7 @@
 ### Hi there, I'm Heike 👋
 
-
-
+I am a biologist/paleogeneticist interested in tracing how diversity and organismal composition have changed over time and in identifying potential drivers of these changes. 
+To accomplish that, I am working with ancient DNA from marine sediment cores and apply DNA metabarcoding or shotgun metagenomics.
 
 
 <!--
