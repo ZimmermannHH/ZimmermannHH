@@ -1,8 +1,8 @@
-### Hi there, I'm Heike 👋
+### Hi there, 
 
-I am a biologist/paleogeneticist interested in tracing how diversity and organismal composition have changed over time and in identifying potential drivers of these changes. 
-To accomplish this, I am working with ancient DNA from marine sediment cores and apply DNA metabarcoding or shotgun metagenomics.
-
+I am a biologist/paleogeneticist interested in tracing how diversity and organismal composition have changed in the past. 
+To accomplish this, I am working with environmental DNA and ancient DNA from (marine) sediment cores and apply DNA metabarcoding or shotgun metagenomics. 
+This repository is used to publish the scripts that accompany my publications. 
 
 <!--
 **ZimmermannHH/ZimmermannHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
